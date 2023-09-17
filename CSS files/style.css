@@ -1,0 +1,16 @@
+
+label {
+    display: block;
+    margin-bottom: 10px;
+  }
+  .main-container{
+    width: 90vw;
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  #quiz-container{
+    /* background: #be1717; */
+    font-family: 'Preahvihear', sans-serif;
+  }
